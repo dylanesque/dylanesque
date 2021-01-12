@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MPQ Champ App](https://github.com/dylanesque/MPQChampApp)
 
-- 🌱 I’m currently learning **Epic React**
+- 🌱 I’m currently learning advanced React from [**Epic React**](https://epicreact.dev), and **Python** from [Andrei Neagoie](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15897876#questions)
 
 - 📝 I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
 
