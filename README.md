@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanesque" alt="dylanesque" /></a> </p>
 
-- 🔭 I’m currently working on [MPQ Champ App](https://github.com/dylanesque/MPQChampApp)
+- 🔭 I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp)
 
 - 🌱 I’m currently learning advanced React from [**Epic React**](https://epicreact.dev), and **Python** from [Andrei Neagoie](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15897876#questions)
 
