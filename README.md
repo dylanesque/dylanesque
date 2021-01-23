@@ -15,9 +15,9 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/michael-caveney/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAaUnl8B6XZAvD7WvizzC_hTLAaD-hErrhc,1606768754302)/](https://www.linkedin.com/in/michael-caveney/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAAAaUnl8B6XZAvD7WvizzC_hTLAaD-hErrhc,1606768754302)/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blog Posts
+
+- My blog posts can be found [here](https://dev.to/dylanesque)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
