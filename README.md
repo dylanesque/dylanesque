@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp)
 
-- 🌱 I’m currently learning [Production-Grade Angular](https://frontendmasters.com/courses/production-angular/) and [Firebase](https://frontendmasters.com/courses/firebase-react-v2/) from [**Front-End Masters](https://frontendmasters.com/)
+- 🌱 I’m currently learning [Production-Grade Angular](https://frontendmasters.com/courses/production-angular/) and [Firebase](https://frontendmasters.com/courses/firebase-react-v2/) from [**Front-End Masters**](https://frontendmasters.com/)
 
 - 📝 I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
 
