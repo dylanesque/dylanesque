@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp)
 
-- 🌱 I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and preparing for my first AWS certification with [**ExamPro**](https://www.exampro.co/)
+- 🌱 I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and preparing for Certified Cloud Practitioner AWS certification with [**ExamPro**](https://www.exampro.co/)
 
 - 📝 I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
 
