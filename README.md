@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanesque" alt="dylanesque" /></a> </p>
 
-- 🔭 I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp) and [Police Data Trust](https://github.com/codeforboston/police-data-trust).
+- 🔭  I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp) and [Police Data Trust](https://github.com/codeforboston/police-data-trust).
 
-- 🌱 I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and preparing for Certified Cloud Practitioner AWS certification with [**ExamPro**](https://www.exampro.co/)
+- 🌱  I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and learning Go from [Coursera](https://www.coursera.org/learn/golang-getting-started)
 
-- 📝 I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
+- 📝  I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
 
-- 📫 How to reach me **michaelscaveney@gmail.com**
+- 📫  How to reach me **michaelscaveney@gmail.com**
 
-- 📄 Know about my [experiences](https://www.linkedin.com/in/michael-caveney/)
+- 📄  Know about my [experiences](https://www.linkedin.com/in/michael-caveney/)
 
 ### Blog Posts
 
