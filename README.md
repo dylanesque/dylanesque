@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanesque" alt="dylanesque" /></a> </p>
 
-- 🔭  I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp) and [Police Data Trust](https://github.com/codeforboston/police-data-trust).
+- 🔭   I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp) and [Police Data Trust](https://github.com/codeforboston/police-data-trust).
 
-- 🌱  I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and learning Go from [Coursera](https://www.coursera.org/learn/golang-getting-started)
+- 🌱   I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and learning Go from [Coursera](https://www.coursera.org/learn/golang-getting-started)
 
-- 📝  I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
+- 📝   I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
 
-- 🎓 I mentor new developers on [Coding Coach](https://mentors.codingcoach.io/)
+- 🎓  I mentor new developers on [Coding Coach](https://mentors.codingcoach.io/)
 
-- 📫  How to reach me **michaelscaveney@gmail.com**
+- 📫   How to reach me **michaelscaveney@gmail.com**
 
-- 📄  Know about my [experiences](https://www.linkedin.com/in/michael-caveney/)
+- 📄   Learn about my [experiences](https://www.linkedin.com/in/michael-caveney/)
 
 
 <h3 align="left">Connect with me:</h3>
