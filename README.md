@@ -11,13 +11,12 @@
 
 - 📝  I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
 
+- 🎓 I mentor new developers on [Coding Coach](https://mentors.codingcoach.io/)
+
 - 📫  How to reach me **michaelscaveney@gmail.com**
 
 - 📄  Know about my [experiences](https://www.linkedin.com/in/michael-caveney/)
 
-### Blog Posts
-
-- My blog posts can be found [here](https://dev.to/dylanesque)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
