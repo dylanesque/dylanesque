@@ -19,8 +19,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dylanesque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dylanesque" height="30" width="40" /></a>
+<p align="left"> <a href="https://dev.to/dylanesque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dylanesque" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/michael-caveney" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="michael-caveney" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/michael-c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="michael-c" height="30" width="40" /></a>
 </p>
